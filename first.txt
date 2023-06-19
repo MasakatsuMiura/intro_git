@@ -4,3 +4,4 @@ git‚Ì—ûK
 /git commit
 test
 git status
+git diff
