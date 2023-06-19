@@ -3,3 +3,4 @@ git‚Ì—ûK
 /git addo
 /git commit
 test
+git status
